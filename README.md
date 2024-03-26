@@ -19,10 +19,10 @@ The USA Arrests project in R Studio focuses on analyzing and visualizing crime d
 
 ![R_shiny1](https://user-images.githubusercontent.com/108234726/215326873-2efc87cf-6214-48d2-a1d9-45d2c2787856.png)
 
-**Statewise Bar Charts** : A charts displaying the frequency of arrests for different crimes (like Assault or Murder) across various states. These visuals can help identify which states have higher or lower rates of certain crimes.
 
 ![R_shiny2](https://user-images.githubusercontent.com/108234726/215326876-fe7647a4-5c78-4e4d-b5d7-67ee57e9c4f5.png)
 
+**Statewise Bar Charts** : A charts displaying the frequency of arrests for different crimes (like Assault or Murder) across various states. These visuals can help identify which states have higher or lower rates of certain crimes.
 
 ![R_shiny3](https://user-images.githubusercontent.com/108234726/215326879-cb04db3c-e246-4923-855d-61575709266a.png)
 
