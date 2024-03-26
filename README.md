@@ -1,4 +1,5 @@
-# USA_Arrests
+# USA_Arrests ![image](https://github.com/maevaportfolio/USA_Arrests/assets/108234726/3ad95bb0-f7f2-4f5e-b85b-842827103df2)
+
 
 The USA Arrests project in R Studio focuses on analyzing and visualizing crime data from different states in the United States as recorded in 1973. Using the R programming language and Shiny, an interactive web application framework for R, the project presents a dashboard that allows users to explore the data through various interactive elements
 
