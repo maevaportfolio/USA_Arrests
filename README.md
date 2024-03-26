@@ -23,14 +23,14 @@ The USA Arrests project in R Studio focuses on analyzing and visualizing crime d
 
 ![R_shiny2](https://user-images.githubusercontent.com/108234726/215326876-fe7647a4-5c78-4e4d-b5d7-67ee57e9c4f5.png)
 
-**Distribution Charts**: Images depicting histograms and boxplots are used to show the distribution of a particular variable. Histograms provide a sense of the frequency of different values, while boxplots highlight the median, quartiles, and outliers within the data.
 
 ![R_shiny3](https://user-images.githubusercontent.com/108234726/215326879-cb04db3c-e246-4923-855d-61575709266a.png)
 
-**Correlation Matrices**: These show how different variables correlate with each other. In the context of crime data, a correlation matrix would indicate if higher urban population percentages correlate with higher crime rates, among other potential relationships.
+**Distribution Charts**: Images depicting histograms and boxplots are used to show the distribution of a particular variable. Histograms provide a sense of the frequency of different values, while boxplots highlight the median, quartiles, and outliers within the data.
+
 ![R_shiny4](https://user-images.githubusercontent.com/108234726/215326882-364c7224-1b4f-4ae8-83a2-9a607343f2ed.png)
 
-**Scatter Plots**: Scatter plot images are typically used to explore the relationship between two quantitative variables. For instance, they might show how the rate of Assault correlates with the rate of Murder across different states, possibly with a trend line indicating the nature and strength of the relationship.
+**Correlation Matrices**: These show how different variables correlate with each other. In the context of crime data, a correlation matrix would indicate if higher urban population percentages correlate with higher crime rates, among other potential relationships.
 
 ![R_shiny5](https://user-images.githubusercontent.com/108234726/215326888-95cf9a38-895e-43d5-9a87-49d8275945e7.png)
 
